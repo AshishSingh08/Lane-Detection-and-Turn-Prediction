@@ -47,7 +47,7 @@ To run this project, you will need to install all/some of the following:
 1. Clone the repository
 
    ```
-   
+   https://github.com/AshishSingh08/Lane-Detection-and-Turn-Prediction.git
    ```
 2. Open the folder in the IDE
 3. Lane Detection
